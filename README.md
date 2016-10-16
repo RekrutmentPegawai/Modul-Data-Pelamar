@@ -4,7 +4,7 @@
 
 **(Sub Modul Data Umum Pegawai)**
 
-<img src="./media/image1.png" width="147" height="136" />
+<img src="https://github.com/RekrutmentPegawai/Proyek2/blob/master/img/proposal/logopolpos.png" width="147" height="136" />
 
 This system is designed to facilitate the recruitment process to make the data more accurate and efficient
 
